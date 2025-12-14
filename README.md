@@ -4,7 +4,7 @@
     alt="Header Gradient" />
 </div>
 
-<h3 align="center">👋 Sobre mí</h3>
+<h3 align="center">Sobre mí</h3>
 
 <p align="center">
   Soy un profesional apasionado por el desarrollo de software y la automatización de infraestructura. Mi enfoque se
@@ -27,14 +27,14 @@
 
 ---
 
-<h2 align="center">🛠️ Arsenal Tecnológico</h2>
+<h2 align="center">Arsenal Tecnológico</h2>
 
 <div align="center">
 
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>🚀 Lenguajes Principales</h3>
+        <h3>Lenguajes Principales</h3>
         <p>Mi día a día</p>
         <img src="https://skillicons.dev/icons?i=python,php,ts,js&perline=2&theme=dark" alt="Main Languages" />
       </td>
@@ -47,26 +47,26 @@
     </tr>
     <tr>
       <td align="center">
-        <h3>⚡ Frameworks & Librerías</h3>
+        <h3>Frameworks & Librerías</h3>
         <img
           src="https://skillicons.dev/icons?i=fastapi,express,nodejs,react,next,redux,dotnet,bootstrap&perline=4&theme=dark"
           alt="Frameworks" />
       </td>
       <td align="center">
-        <h3>🗄️ Bases de Datos</h3>
+        <h3>Bases de Datos</h3>
         <img src="https://skillicons.dev/icons?i=mysql,mongo,postgres,redis&perline=2&theme=dark" alt="Databases" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <h3>☁️ DevOps & Cloud</h3>
+        <h3>DevOps & Cloud</h3>
         <p>Infraestructura y Despliegue</p>
         <img
           src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,grafana,jenkins,linux,powershell,bash,bots&perline=5&theme=dark"
           alt="DevOps" />
       </td>
       <td align="center">
-        <h3>📦 Paquetería & Herramientas</h3>
+        <h3>Paquetería & Herramientas</h3>
         <p>Control de versiones incluidas</p>
         <img
           src="https://skillicons.dev/icons?i=git,github,githubactions,bitbucket,npm,pnpm,yarn,postman&perline=4&theme=dark"
@@ -75,13 +75,13 @@
     </tr>
     <tr>
       <td align="center">
-        <h3>💻 Editores & IDEs</h3>
+        <h3>Editores & IDEs</h3>
         <img
           src="https://skillicons.dev/icons?i=vscode,atom,vim,codepen,phpstorm,sublime,visualstudio&perline=4&theme=dark"
           alt="Editors" />
       </td>
       <td align="center">
-        <h3>🖥️ Sistemas Operativos</h3>
+        <h3>Sistemas Operativos</h3>
         <img src="https://skillicons.dev/icons?i=windows,ubuntu,debian&perline=2&theme=dark" alt="OS" />
       </td>
     </tr>
@@ -91,7 +91,7 @@
 
 ---
 
-<h2 align="center">📈 Métricas de GitHub</h2>
+<h2 align="center">Métricas de GitHub</h2>
 
 <div align="center">
   <img
@@ -110,20 +110,20 @@
 
 ---
 
-<h2 align="center">📬 Conectemos</h2>
+<h2 align="center">Conectemos</h2>
 
 <p align="center">
-  <a href="mailto:angelrodriguez11r99@gmail.com">
+  <a href="mailto:rodriguez201507@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/tu-usuario">
+  <a href="https://www.linkedin.com/in/angel-rodriguez-cotom/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn" />
   </a>
 </p>
 
 <div align="center">
-  <!-- <h3>🎯 En la mira (Aprendizaje)</h3>
+  <!-- <h3>En la mira (Aprendizaje)</h3>
   <code></code> • <code></code> • <code></code>
   <br><br> -->
   <i>“Rodéate de buenos y tú lo parecerás, rodéate de sabios y algo en ti se quedará”</i>
